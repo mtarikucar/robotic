@@ -8,6 +8,7 @@
 #todo: 
     #perspective transform section should be dynamic by frame size
     #decide the prediction type in the detect line features KMeans or hierartical
+    #dynamic cluster count in deteciton function
     #decide the which one to use lcm or constant variable in get_points 
     #share the procceses with cuda #
 import cv2
